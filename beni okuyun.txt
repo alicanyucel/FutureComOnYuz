@@ -1,1 +1,4 @@
 Kurs ve Öğretmen Tablosu left joinle birleştirilmiştir.
+Kurs ve öğretmen arasında many to many ilşkisi kurmak yerine kurs ve öğretmen tablosunu left join ile birleştirdim.
+Onun haricinde öğrenci v öğretmen tablosunun ilşkisini kurdum.Database diagramından inceleyebilirsiniz.
+Stored Procedure ve Viewsler için ayrı bir visual studio sql  projesi açıp onu da githuba ekleyeceğim.
