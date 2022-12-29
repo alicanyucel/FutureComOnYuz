@@ -1,0 +1,1 @@
+Kurs ve Öğretmen Tablosu left joinle birleştirilmiştir.
